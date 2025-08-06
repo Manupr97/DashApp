@@ -1,0 +1,21 @@
+Jugador,TipoLesion,FechaInicio,FechaFin,DiasBaja,ZonaCorporal
+Juan Pérez,Rotura de ligamento,2024-01-10,2024-04-15,95,Rodilla
+Carlos Ruiz,Contractura muscular,2024-02-05,2024-02-15,10,Muslo
+Miguel Torres,Fractura de tibia,2024-03-01,2024-06-01,92,Pierna
+Andrés Gómez,Distensión,2024-01-20,2024-02-05,16,Ingle
+Pedro López,Rotura de menisco,2024-02-10,2024-03-20,39,Rodilla
+Sergio Díaz,Contusión,2024-03-15,2024-03-20,5,Pie
+David Martín,Rotura fibrilar,2024-04-01,2024-04-21,20,Muslo
+Álvaro Sánchez,Lesión de tobillo,2024-02-25,2024-03-10,13,Tobillo
+Javier Ramos,Rotura de ligamento,2024-01-15,2024-04-20,95,Rodilla
+Luis Fernández,Contractura muscular,2024-03-10,2024-03-20,10,Espalda
+Manuel Castro,Fractura de peroné,2024-04-05,2024-06-15,71,Pierna
+Iván Romero,Distensión,2024-02-18,2024-03-01,11,Ingle
+Rubén Gil,Rotura de menisco,2024-03-12,2024-04-18,37,Rodilla
+Óscar Molina,Contusión,2024-01-25,2024-01-30,5,Brazo
+Pablo Navarro,Rotura fibrilar,2024-02-14,2024-03-06,20,Muslo
+Mario Suárez,Lesión de tobillo,2024-03-22,2024-04-05,14,Tobillo
+Adrián Vega,Rotura de ligamento,2024-02-01,2024-05-10,98,Rodilla
+Héctor León,Contractura muscular,2024-04-12,2024-04-22,10,Espalda
+Samuel Ortega,Fractura de tibia,2024-01-28,2024-04-28,91,Pierna
+Raúl Jiménez,Distensión,2024-03-05,2024-03-20,15,Ingle
